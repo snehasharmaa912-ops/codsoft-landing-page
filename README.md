@@ -18,3 +18,7 @@ Technologies Used :
 ->Managing spacing, padding, and margins
 ->Designing responsive pages
 ->Improving UI consistency
+
+👩‍💻 Developed By :
+Sneha Sharma
+CodSoft Web Development Intern
